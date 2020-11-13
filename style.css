@@ -1,0 +1,120 @@
+body{
+		margin: 0;
+	}
+.topcontainer{
+	background-color: #ff4500;
+	height:	670px;
+	width: 1350px;
+}
+.name{
+	margin-top: 10px;
+	margin-left: 500px;
+	color:yellow;
+	font-family: 'Dancing Script', cursive;
+	font-size: 50px;
+}
+.ok{
+	margin-top: 0px;
+	margin-left: 590px;
+	color: green;
+	font-family: cursive;
+	font-size: 25px;
+}
+.cloud1{
+	margin-left: 30px;
+
+}
+.cloud2{
+	margin-left: 300px;
+}
+.mountain{
+	width: 650px;
+
+}
+.nok{
+	font-style: italic;
+	color : white;
+	padding: 20px;
+	margin:20px;
+	font-size: 24px;
+}
+.ook{
+	margin-left: 200px;
+}
+
+#a{
+	margin-left: 200px;
+	margin-right: 200px;
+	background-color: #ddd;
+	font-size: 25px;
+}
+#b{
+	margin-right: 200px;
+	font-size: 25px;
+}
+#c{
+	margin-right: 20px;
+	font-size: 25px;
+}
+.middlecontainer{
+	background-color: #ff4500;
+	height:	600px;
+	width: 1350px;
+	margin-bottom: 0px;
+}
+.jaivin{
+	margin-left: 560px;
+	height: 250px;
+	width: 250px;
+	background-color: #e4f9f5;
+	border-radius: 50%;
+}
+.jd{
+	margin-left: 590px;
+	color: green;
+	font-family: cursive;
+}
+.skill{
+	margin-top: 0px;
+	margin-left: 670px;
+	color: yellow;
+	font-family: cursive;
+	font-size: 35px;
+}
+.moo{
+	font-style: italic;
+	color : white;
+	padding: 17px;
+	margin-left:500px;
+	margin-right: 450px;
+	font-size: 20px;
+}
+.computer{
+	margin-left: 400px;
+	height: 400px;
+	width: 650px;
+	border-radius: 50%;
+
+}
+h3{
+	margin-left: 600px;
+	color: #ffffff;
+	font-family: cursive;
+}
+.mo{
+	font-style: italic;
+	color : #ffffe6;
+	font-size: 20px;
+}
+.bottomcontainer{
+	background-color: #ff4500;
+	height:	600px;
+	width: 1350px;
+	margin-top: 0px;
+}
+.aboutus{
+	margin-top: 0px;
+	margin-left: 600px;
+	color: black;
+	font-family: cursive;
+}
